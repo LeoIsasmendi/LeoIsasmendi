@@ -14,7 +14,7 @@
 
 <h2>Contact me</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/LeoIsasmendi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LeoIsasmendi"/></a>
+  <a href="http://www.linkedin.com/in/leonardo-isasmendi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedinLeoIsasmendi"/></a>
 </p>
 <br>
 
