@@ -19,12 +19,34 @@
 <br>
 
 <h2 >Tech stack</h2>
+<!--
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,java,react,redux,css,html,js,ts,sqlite,firebase,git,github,vscode,bash,linux,arch&perline=12" />
   </a>
 </p>
 <br>
+-->
+
+
+![Static Badge](https://img.shields.io/badge/Android%20Studio-gray?style=flat-square&logo=androidstudio)
+![Static Badge](https://img.shields.io/badge/Kotlin-gray?style=flat-square&logo=kotlin)
+![Static Badge](https://img.shields.io/badge/Gradle-gray?style=flat-square&logo=gradle)
+![Static Badge](https://img.shields.io/badge/Java-gray?style=flat-square&logo=java)
+![Static Badge](https://img.shields.io/badge/React-gray?style=flat-square&logo=react)
+![Static Badge](https://img.shields.io/badge/Redux-gray?style=flat-square&logo=redux)
+![Static Badge](https://img.shields.io/badge/CSS-gray?style=flat-square&logo=css)
+![Static Badge](https://img.shields.io/badge/HTML-gray?style=flat-square&logo=html5)
+![Static Badge](https://img.shields.io/badge/Javascript-gray?style=flat-square&logo=javascript)
+![Static Badge](https://img.shields.io/badge/Typescript-gray?style=flat-square&logo=typescript)
+![Static Badge](https://img.shields.io/badge/SQLite-gray?style=flat-square&logo=sqlite)
+![Static Badge](https://img.shields.io/badge/Firebase-gray?style=flat-square&logo=firebase)
+![Static Badge](https://img.shields.io/badge/Git-gray?style=flat-square&logo=git)
+![Static Badge](https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-gray?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Linux-gray?style=flat-square&logoColor=white&logo=linux)
+![Static Badge](https://img.shields.io/badge/Bash-gray?style=flat-square&logoColor=white&logo=gnubash)
+![Static Badge](https://img.shields.io/badge/ArchLinux-gray?style=flat-square&logo=archlinux)
 
 <h2>GitHub</h2>
 <p align="center">
