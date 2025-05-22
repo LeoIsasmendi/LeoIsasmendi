@@ -39,7 +39,7 @@
       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LeoIsasmendi&theme=dark&show_icons=true&count_private=true" />
     </td>
     <td width="40%" align="center">
-      <img  align="center"  src="https://github-readme-stats-woad-leo-isasmendi.vercel.app/api/top-langs/?username=LeoIsasmendi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      <img  align="center"  src="https://github-readme-stats-leo-isasmendi-projects.vercel.app/api/top-langs/?username=LeoIsasmendi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     </td>
     </tr>
   </table>
